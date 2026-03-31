@@ -1,0 +1,79 @@
+public_path,original_source,description
+results/core_scans/phase1_mscan_summary.csv,stage1/phase1_outputs/phase1_mscan_summary.csv,phase1 summary table
+results/core_scans/phase2_mE_mE_summary.csv,stage1/phase1_outputs/phase2_mE_mE_summary.csv,phase-2 m-E summary table
+results/core_scans/phase2_mE_mE_formed_topology_summary.csv,stage1/phase1_outputs/phase2_mE_mE_formed_topology_summary.csv,phase-2 m-E topology summary
+results/core_scans/phase2_mT_mT_summary.csv,stage1/phase1_outputs/phase2_mT_mT_summary.csv,phase-2 m-T summary table
+results/core_scans/phase2_mT_mT_formed_topology_summary.csv,stage1/phase1_outputs/phase2_mT_mT_formed_topology_summary.csv,phase-2 m-T topology summary
+results/dynamic_feedback/dynamic_m_compare_m_summary.csv,stage1/phase1_outputs/dynamic_compare/dynamic_m_compare_m_summary.csv,dynamic m-scan summary
+results/dynamic_feedback/dynamic_mE_compare_mE_summary.csv,stage1/phase1_outputs/dynamic_compare/dynamic_mE_compare_mE_summary.csv,dynamic m-E comparison summary
+results/sensitivity/static_oat_param_impact.csv,sensitivity/standalone_fig6_si_outputs/static_oat_param_impact.csv,static parameter impact table
+results/sensitivity/dynamic_param_impact.csv,sensitivity/standalone_fig6_si_outputs/dynamic_param_impact.csv,dynamic parameter impact table
+results/sensitivity/static_sens_case_metrics.csv,sensitivity/standalone_fig6_si_outputs/static_sens_case_metrics.csv,static sensitivity case metrics
+results/sensitivity/dynamic_sens_case_metrics.csv,sensitivity/standalone_fig6_si_outputs/dynamic_sens_case_metrics.csv,dynamic sensitivity case metrics
+results/sensitivity/static_sens_e50_tables.csv,sensitivity/standalone_fig6_si_outputs/static_sens_e50_tables.csv,threshold tables for sensitivity analysis
+results/sensitivity/S1_active_zone_e50.csv,sensitivity/standalone_fig6_si_outputs/S1_active_zone_e50.csv,active-zone threshold table
+results/sensitivity/S1_active_zone_summary.csv,sensitivity/standalone_fig6_si_outputs/S1_active_zone_summary.csv,active-zone summary table
+results/sensitivity/S1_active_zone_topology.csv,sensitivity/standalone_fig6_si_outputs/S1_active_zone_topology.csv,active-zone topology table
+results/scaling/drive_normalized_scaling_report.csv,delta_data_analy/phase1_outputs/drive_normalized_scaling_outputs/drive_normalized_scaling_report.csv,scaling-analysis report
+results/scaling/mE_E50_fit_table.csv,delta_data_analy/phase1_outputs/drive_normalized_scaling_outputs/mE_E50_fit_table.csv,E50 logistic-fit table
+results/scaling/mE_drive_normalized_kinetic.csv,delta_data_analy/phase1_outputs/drive_normalized_scaling_outputs/mE_drive_normalized_kinetic.csv,drive-normalized kinetic summary
+results/scaling/mE_drive_normalized_topology.csv,delta_data_analy/phase1_outputs/drive_normalized_scaling_outputs/mE_drive_normalized_topology.csv,drive-normalized topology summary
+results/scaling/standardized_mE_summary.csv,delta_data_analy/phase1_outputs/drive_normalized_scaling_outputs/standardized_mE_summary.csv,standardized m-E summary
+results/scaling/standardized_mE_topology_summary.csv,delta_data_analy/phase1_outputs/drive_normalized_scaling_outputs/standardized_mE_topology_summary.csv,standardized m-E topology summary
+results/scaling/alpha_scan_Psi_branches.csv,delta_data_analy/phase1_outputs/drive_normalized_scaling_outputs/alpha_scan_Psi_branches.csv,alpha scan for branch collapse
+results/scaling/alpha_scan_Psi_tortuosity.csv,delta_data_analy/phase1_outputs/drive_normalized_scaling_outputs/alpha_scan_Psi_tortuosity.csv,alpha scan for tortuosity collapse
+results/review_response/device_side_summary.csv,12_task/task10_12_device_side_summary.csv,device-side reviewer-response summary
+results/review_response/baseline_summary.csv,12_task/baseline_summary.csv,baseline reviewer-response summary
+results/review_response/task1_sigma_lc_summary.csv,12_task/task1_sigma_lc_summary.csv,task 1 sigma/lc summary
+results/review_response/task2_mask_summary.csv,12_task/task2_mask_summary.csv,task 2 mask robustness summary
+results/review_response/task3_lattice_summary.csv,12_task/task3_lattice_summary.csv,task 3 lattice-size summary
+results/review_response/task4_profile_summary.csv,12_task/task4_profile_summary.csv,task 4 barrier-profile summary
+results/review_response/task9_adjacent_significance_pform.csv,12_task/task9_adjacent_significance_pform.csv,task 9 adjacent significance table
+results/figures/main/fig_2.pdf,paper_csv_redraw/main/fig_2.pdf,main manuscript figure asset
+results/figures/main/fig_2.png,paper_csv_redraw/main/fig_2.png,main manuscript figure asset
+results/figures/main/fig_2.svg,paper_csv_redraw/main/fig_2.svg,main manuscript figure asset
+results/figures/main/fig_6.pdf,paper_csv_redraw/main/fig_6.pdf,main manuscript figure asset
+results/figures/main/fig_6.png,paper_csv_redraw/main/fig_6.png,main manuscript figure asset
+results/figures/main/fig_6.svg,paper_csv_redraw/main/fig_6.svg,main manuscript figure asset
+results/figures/main/fig_7.pdf,paper_csv_redraw/main/fig_7.pdf,main manuscript figure asset
+results/figures/main/fig_7.png,paper_csv_redraw/main/fig_7.png,main manuscript figure asset
+results/figures/main/fig_7.svg,paper_csv_redraw/main/fig_7.svg,main manuscript figure asset
+results/figures/main/fig_8.pdf,paper_csv_redraw/main/fig_8.pdf,main manuscript figure asset
+results/figures/main/fig_8.png,paper_csv_redraw/main/fig_8.png,main manuscript figure asset
+results/figures/main/fig_8.svg,paper_csv_redraw/main/fig_8.svg,main manuscript figure asset
+results/figures/main/fig_main_sensitivity.pdf,paper_csv_redraw/main/fig_main_sensitivity.pdf,main manuscript figure asset
+results/figures/main/fig_main_sensitivity.png,paper_csv_redraw/main/fig_main_sensitivity.png,main manuscript figure asset
+results/figures/main/fig_main_sensitivity.svg,paper_csv_redraw/main/fig_main_sensitivity.svg,main manuscript figure asset
+results/figures/main/method_schematic.pdf,paper_csv_redraw/main/method_schematic.pdf,main manuscript figure asset
+results/figures/main/method_schematic.png,paper_csv_redraw/main/method_schematic.png,main manuscript figure asset
+results/figures/main/method_schematic.svg,paper_csv_redraw/main/method_schematic.svg,main manuscript figure asset
+results/figures/main/new_fig_2.pdf,paper_csv_redraw/main/new_fig_2.pdf,main manuscript figure asset
+results/figures/main/new_fig_2.png,paper_csv_redraw/main/new_fig_2.png,main manuscript figure asset
+results/figures/main/new_fig_2.svg,paper_csv_redraw/main/new_fig_2.svg,main manuscript figure asset
+results/figures/main/new_fig_5.pdf,paper_csv_redraw/main/new_fig_5.pdf,main manuscript figure asset
+results/figures/main/new_fig_5.png,paper_csv_redraw/main/new_fig_5.png,main manuscript figure asset
+results/figures/main/new_fig_5.svg,paper_csv_redraw/main/new_fig_5.svg,main manuscript figure asset
+results/figures/supplementary/fig_S10_representative_logistic_fits.pdf,paper_csv_redraw/si/fig_S10_representative_logistic_fits.pdf,supplementary figure asset
+results/figures/supplementary/fig_S10_representative_logistic_fits.png,paper_csv_redraw/si/fig_S10_representative_logistic_fits.png,supplementary figure asset
+results/figures/supplementary/fig_S10_representative_logistic_fits.svg,paper_csv_redraw/si/fig_S10_representative_logistic_fits.svg,supplementary figure asset
+results/figures/supplementary/fig_S11_sigma_lc_decomposition.pdf,paper_csv_redraw/si/fig_S11_sigma_lc_decomposition.pdf,supplementary figure asset
+results/figures/supplementary/fig_S11_sigma_lc_decomposition.png,paper_csv_redraw/si/fig_S11_sigma_lc_decomposition.png,supplementary figure asset
+results/figures/supplementary/fig_S11_sigma_lc_decomposition.svg,paper_csv_redraw/si/fig_S11_sigma_lc_decomposition.svg,supplementary figure asset
+results/figures/supplementary/fig_S12_mask_deltaE50.pdf,paper_csv_redraw/si/fig_S12_mask_deltaE50.pdf,supplementary figure asset
+results/figures/supplementary/fig_S12_mask_deltaE50.png,paper_csv_redraw/si/fig_S12_mask_deltaE50.png,supplementary figure asset
+results/figures/supplementary/fig_S12_mask_deltaE50.svg,paper_csv_redraw/si/fig_S12_mask_deltaE50.svg,supplementary figure asset
+results/figures/supplementary/fig_S13_lattice_deltaE50.pdf,paper_csv_redraw/si/fig_S13_lattice_deltaE50.pdf,supplementary figure asset
+results/figures/supplementary/fig_S13_lattice_deltaE50.png,paper_csv_redraw/si/fig_S13_lattice_deltaE50.png,supplementary figure asset
+results/figures/supplementary/fig_S13_lattice_deltaE50.svg,paper_csv_redraw/si/fig_S13_lattice_deltaE50.svg,supplementary figure asset
+results/figures/supplementary/fig_S14_profile_deltaE50.pdf,paper_csv_redraw/si/fig_S14_profile_deltaE50.pdf,supplementary figure asset
+results/figures/supplementary/fig_S14_profile_deltaE50.png,paper_csv_redraw/si/fig_S14_profile_deltaE50.png,supplementary figure asset
+results/figures/supplementary/fig_S14_profile_deltaE50.svg,paper_csv_redraw/si/fig_S14_profile_deltaE50.svg,supplementary figure asset
+results/figures/supplementary/fig_S15_hexbin_branches_vs_Psi.pdf,paper_csv_redraw/si/fig_S15_hexbin_branches_vs_Psi.pdf,supplementary figure asset
+results/figures/supplementary/fig_S15_hexbin_branches_vs_Psi.png,paper_csv_redraw/si/fig_S15_hexbin_branches_vs_Psi.png,supplementary figure asset
+results/figures/supplementary/fig_S15_hexbin_branches_vs_Psi.svg,paper_csv_redraw/si/fig_S15_hexbin_branches_vs_Psi.svg,supplementary figure asset
+results/figures/supplementary/fig_S17_bottom_contact_and_conductance_proxy.pdf,paper_csv_redraw/si/fig_S17_bottom_contact_and_conductance_proxy.pdf,supplementary figure asset
+results/figures/supplementary/fig_S17_bottom_contact_and_conductance_proxy.png,paper_csv_redraw/si/fig_S17_bottom_contact_and_conductance_proxy.png,supplementary figure asset
+results/figures/supplementary/fig_S17_bottom_contact_and_conductance_proxy.svg,paper_csv_redraw/si/fig_S17_bottom_contact_and_conductance_proxy.svg,supplementary figure asset
+results/figures/supplementary/fig_S1_active_zone_depth_only.pdf,paper_csv_redraw/si/fig_S1_active_zone_depth_only.pdf,supplementary figure asset
+results/figures/supplementary/fig_S1_active_zone_depth_only.png,paper_csv_redraw/si/fig_S1_active_zone_depth_only.png,supplementary figure asset
+results/figures/supplementary/fig_S1_active_zone_depth_only.svg,paper_csv_redraw/si/fig_S1_active_zone_depth_only.svg,supplementary figure asset
